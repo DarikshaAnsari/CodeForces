@@ -1,0 +1,1 @@
+{"name":"Local: patient","url":"/home/dariksha/Documents/CodeForces/patient.cpp","tests":[{"id":1694844024245,"input":"4\n[4,2,3,7]\n2\n2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dariksha/Documents/CodeForces/patient.cpp","group":"local","local":true}
